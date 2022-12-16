@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CRUD_bd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CRUD_bd_jar</output-path>
+    <root id="archive" name="CRUD_bd.jar">
+      <element id="module-output" name="CRUD_bd" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
